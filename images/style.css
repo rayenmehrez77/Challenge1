@@ -1,0 +1,98 @@
+.Supervisor {
+    background-color: hsl(0, 0%, 98%); 
+    width: 300px; 
+    height: 230px; 
+    border-top: 3px solid hsl(212, 86%, 64%) ; 
+    border-radius: 6px;  
+    position: relative; 
+    top: 200px; 
+    left: 215px;
+    border-bottom: 1px solid #888888 ;
+    box-shadow: 3px 1px 5px 1px #888888;
+    
+
+}
+.karma {
+    background-color: hsl(0, 0%, 98%) ;
+    width: 300px; 
+    height: 230px; 
+    border-top: 3px solid hsl(34, 97%, 64%) ; 
+    border-radius: 6px;  
+    position: relative; 
+    left: 550px; 
+    bottom: 150px;
+    border-bottom: 1px solid #888888 ;
+    box-shadow: 3px 1px 5px 1px #888888;
+} 
+.team-builder {
+    background-color:hsl(0, 0%, 98%) ;
+    width: 300px; 
+    height: 230px; 
+    border-top: 3px solid hsl(0, 78%, 62%) ; 
+    border-radius: 6px;  
+    position: relative; 
+    left: 550px; 
+    bottom: 220px; 
+    margin-top: 30px; 
+    border-bottom: 1px solid #888888 ;
+    box-shadow: 3px 1px 5px 1px #888888;
+    
+} 
+.calculator {
+    background-color:hsl(0, 0%, 98%) ;
+    width: 300px; 
+    height: 230px; 
+    border-top: 3px solid blue ; 
+    border-radius: 6px; 
+    position: relative; 
+    left: 895px;
+    bottom: 537px;
+    border-bottom: 1px solid #888888 ;
+    box-shadow: 3px 1px 5px 1px #888888;
+
+} 
+h2 {
+    font-family: font-family: 'Merriweather Sans', sans-serif ; 
+    padding-left: 20px;
+} 
+p {
+    color: gray;
+    padding-left: 20px; 
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif; 
+
+} 
+.img-sup {
+    width: 16%; 
+    position: relative; 
+    left: 225px; 
+    top: 50px;
+}
+.img-team {
+    width: 16%; 
+    position: relative; 
+    left: 225px; 
+    top: 50px;
+} 
+.img-karma {
+    width: 16%; 
+    position: relative; 
+    left: 225px; 
+    top: 50px;
+} 
+.img-cal {
+    width: 16%; 
+    position: relative; 
+    left: 225px; 
+    top: 50px;
+} 
+.Reliable {
+    font-family: 'Poppins', sans-serif;
+
+
+
+} 
+.attribution { 
+    font-size: 100px;
+
+}
